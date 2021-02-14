@@ -1,1 +1,1 @@
-# waveform-studies
+# waveforms
